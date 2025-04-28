@@ -90,7 +90,7 @@ The lagged relationship was slightly stronger than the contemporaneous one, sugg
 - Machine learning models (e.g., LASSO regression) for predictive analysis, as outlined in the proposal.
 - Geospatial visualizations using choropleth maps to better illustrate regional differences.
 
-## ✅ Summary Table (optional if you want to attach)
+## Summary Table
 
 | Analysis                           | Result       |
 |------------------------------------|--------------|
