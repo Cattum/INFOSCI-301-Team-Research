@@ -44,6 +44,7 @@ This suggests that higher unemployment rates are associated with increased menta
 
 #### Visualization:
 - A scatter plot with a regression line indicated a positive trend between unemployment and mental health burden, albeit with some dispersion, implying that other factors may also influence mental health outcomes.
+![Overall Scatter](Visualization/overall_scatter_by_year.png)
 
 ### 3.2 State-Level Variation
 The strength of the unemployment-mental health relationship varied significantly across states:
