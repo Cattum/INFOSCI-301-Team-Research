@@ -98,12 +98,12 @@ A **time slider** allows users to interactively explore changes from 2018 to 202
 
 ## 2. Dashboard Features
 
-| Feature                          | Description (EN)                                                | 描述 (中文)                                          |
-|----------------------------------|-----------------------------------------------------------------|---------------------------------------------------|
-| **Mental Health Visualization**  | Color intensity reflects mental health burden per state.        | 各州心理健康负担通过颜色深浅表示。                           |
-| **Unemployment Visualization**   | Bubble size and shade represent unemployment rates.            | 失业率通过气泡大小与颜色强度展示。                         |
-| **Time Slider**                  | Interactive year-by-year comparison.                           | 交互式年度比较滑动条。                                    |
-| **Tooltips**                     | Hovering over states/bubbles shows detailed data.               | 鼠标悬停可查看详细数据提示。                               |
+| Feature                          | Description (EN)                                                | 
+|----------------------------------|-----------------------------------------------------------------|
+| **Mental Health Visualization**  | Color intensity reflects mental health burden per state.        |
+| **Unemployment Visualization**   | Bubble size and shade represent unemployment rates.            | 
+| **Time Slider**                  | Interactive year-by-year comparison.                           | 
+| **Tooltips**                     | Hovering over states/bubbles shows detailed data.               |
 
 ## 3. Accessibility Features
 In addition to the standard visualizations, we have included colorblind-friendly alternatives for better accessibility. Using color palettes derived from colorblind-friendly schemes, users can choose from multiple visualization options, ensuring a better experience for all individuals, regardless of visual impairments.
