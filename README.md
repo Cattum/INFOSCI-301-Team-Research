@@ -22,37 +22,8 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 
 ## File Structure
 
-### `Visualization/`
-This folder contains visual representations of the data, including dashboards and plots:
-
-1. **Dashboards:**
-   - **delta:** A dashboard with a color scheme of Delta.
-   - **sunsightdark:** A dashboard with a dark, sunsight-inspired color scheme.
-   - **tealrose:** A dashboard using teal and rose color tones.
-
-2. **Scatter Plots:**
-   - **Overall Unemployment Rate vs. Mental Health Burden:** A scatter plot comparing the unemployment rate with the mental health burden across states.
-
-3. **Bar Plot:**
-   - **State-wise Correlation Sensitivity Ranking:** A bar plot displaying the correlation sensitivity ranking for each state.
-
-4. **US Choropleth Map:**
-   - **Geospatial Distribution of Correlation Coefficients:** A choropleth map showing the distribution of correlation coefficients across the U.S. states.
-
-### `metadata/`
-This folder contains cleaned data files that were used for the analysis:
-
-1. **Unemployment in America Per US State.csv:**
-   - Contains unemployment data by state in the United States.
-
-2. **data_043155.csv:**
-   - Contains mental health indicators for each U.S. state.
-
-3. **partial_combined_data.csv:**
-   - This dataset consists of cleaned data from both the unemployment and mental health datasets for further analysis.
-
 ### `Main/`
-This folder includes the core components of the project:
+This folder contains the core components of the project and also includes the `Visualization/` and `metadata/` folders:
 
 1. **Project Poster:**
    - A visual representation of the project, summarizing the key points and findings.
@@ -62,6 +33,19 @@ This folder includes the core components of the project:
 
 3. **Plot Codes:**
    - Includes the code for generating the three types of plots mentioned in the `Visualization/` folder: scatter plot, bar plot, and choropleth map.
+
+4. **`Visualization/` Folder:**
+   - Contains visual representations of the data:
+     - **Dashboards:** `delta`, `sunsightdark`, and `tealrose` dashboards with different color schemes.
+     - **Scatter Plots:** Plot comparing overall unemployment rate vs. mental health burden.
+     - **Bar Plot:** State-wise correlation sensitivity ranking.
+     - **Choropleth Map:** Geospatial distribution of correlation coefficients.
+
+5. **`metadata/` Folder:**
+   - Contains the cleaned data files used for analysis:
+     - **Unemployment in America Per US State.csv:** Unemployment data by state.
+     - **data_043155.csv:** Mental health indicators by state.
+     - **partial_combined_data.csv:** Combined and cleaned data from both unemployment and mental health datasets.
 
 
 ## 2. Methodology
