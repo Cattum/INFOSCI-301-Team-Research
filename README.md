@@ -66,8 +66,6 @@ In these states, mental health burdens appeared less directly connected to unemp
 
 ![Statewise Correlation](Visualization/statewise_correlation.png)
 
-![US Correlation](Visualization/us_correlation_map.html)
-
 ### 3.3 Lagged Effect Analysis
 When considering a one-year lag (i.e., comparing the previous year’s unemployment rate to the current year’s mental health burden):
 
