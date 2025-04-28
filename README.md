@@ -74,6 +74,7 @@ When considering a one-year lag (i.e., comparing the previous year’s unemploym
 
 The lagged relationship was slightly stronger than the contemporaneous one, suggesting that unemployment shocks may take time to fully manifest in population-level mental health statistics. This finding supports the hypothesis of a temporal lag effect between economic distress and psychological outcomes.
 
+![US Correlation Map](Visualization/us_correlation_map.png)
 
 ## 4. Preliminary Conclusions
 - State-level unemployment is moderately associated with mental health burdens, supporting the premise that economic hardship influences population wellbeing.
