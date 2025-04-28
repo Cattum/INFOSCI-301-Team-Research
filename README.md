@@ -8,6 +8,19 @@ In this analysis, we examine the relationship between state-level unemployment r
 
 The dataset integrates unemployment data from the U.S. Bureau of Labor Statistics with mental health indicators from the CDC’s Environmental Public Health Tracking Network.
 
+The project was completed for the course INFOSCI 301 at Duke Kunshan University, instructed by Professor Luyao Zhang.
+
+> Author: Zichu Zhou & Qirui Zhao  
+> Date: April 28, 2025
+
+
+## Poster Showcase
+
+![Poster](Poster.png)
+
+*The poster summarizes the research background, critique process, redesign strategies, and key visualization outcomes.*
+
+
 ## 2. Methodology
 We conducted the following steps:
 
