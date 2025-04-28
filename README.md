@@ -85,3 +85,47 @@ The lagged relationship was slightly stronger than the contemporaneous one, sugg
 | Lagged Correlation (1 year)        | 0.5621       |
 | Most Sensitive States             | Nevada, New Mexico, Alaska |
 | Least Sensitive States            | Hawaii, Vermont, New Hampshire |
+
+# Interactive Dashboard: Unemployment and Mental Health Visualization
+
+## 1. Overview
+To further illustrate the temporal and regional dynamics between unemployment and mental health burdens, we developed an interactive dashboard using **Plotly**. The dashboard integrates two layers of visualization:
+
+- **Choropleth Map**: Displays state-by-state mental health problem rates (% of adults experiencing 14+ poor mental health days per month).
+- **Bubble Overlay**: Represents unemployment rates, where bubble size and color intensity correspond to the unemployment severity.
+
+A **time slider** allows users to interactively explore changes from 2018 to 2021, providing a comprehensive view of the relationship between unemployment and mental health burdens over time.
+
+## 2. Dashboard Features
+
+| Feature                          | Description (EN)                                                | 描述 (中文)                                          |
+|----------------------------------|-----------------------------------------------------------------|---------------------------------------------------|
+| **Mental Health Visualization**  | Color intensity reflects mental health burden per state.        | 各州心理健康负担通过颜色深浅表示。                           |
+| **Unemployment Visualization**   | Bubble size and shade represent unemployment rates.            | 失业率通过气泡大小与颜色强度展示。                         |
+| **Time Slider**                  | Interactive year-by-year comparison.                           | 交互式年度比较滑动条。                                    |
+| **Tooltips**                     | Hovering over states/bubbles shows detailed data.               | 鼠标悬停可查看详细数据提示。                               |
+
+## 3. Accessibility Features
+In addition to the standard visualizations, we have included colorblind-friendly alternatives for better accessibility. Using color palettes derived from colorblind-friendly schemes, users can choose from multiple visualization options, ensuring a better experience for all individuals, regardless of visual impairments.
+
+### Available Visualizations:
+- **Default View**: Standard color gradients for mental health and unemployment visualizations.
+- **Colorblind-Friendly Options**: Alternative color palettes that cater to common color vision deficiencies (e.g., Deuteranopia, Protanopia).
+
+These options can be toggled through the dashboard settings, providing a flexible viewing experience.
+
+## 4. Purpose and Impact
+This dashboard enhances user understanding of both spatial disparities and temporal trends, aligning with our project’s goal to deliver a rich, multi-dimensional perspective on economic and public health interactions. It helps users visually grasp the relationship between unemployment and mental health burdens across different states and years, while providing a more accessible experience through colorblind-friendly features.
+
+## 5. Access and Usage
+The interactive dashboard is available for public access. Users can:
+- Explore state-level disparities and time-based trends between unemployment and mental health burdens.
+- Adjust visualization settings to suit personal preferences, including toggling between standard and colorblind-friendly views.
+- Interact with the time slider to view data changes year by year.
+
+## 6. Future Work and Enhancements
+- **Geospatial Analytics**: Incorporating more advanced geospatial analytics for deeper insights.
+- **Predictive Modeling**: Adding features for predictive analytics based on the data.
+- **Mobile Accessibility**: Ensuring the dashboard is fully accessible and responsive on mobile devices.
+
+This dashboard serves as a powerful tool for understanding the intersection of economic and public health factors, empowering users to explore the data interactively while considering the needs of individuals with varying visual abilities.
