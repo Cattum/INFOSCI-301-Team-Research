@@ -20,6 +20,49 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 
 *The poster summarizes the research background, critique process, redesign strategies, and key visualization outcomes.*
 
+## File Structure
+
+### `Visualization/`
+This folder contains visual representations of the data, including dashboards and plots:
+
+1. **Dashboards:**
+   - **delta:** A dashboard with a color scheme of Delta.
+   - **sunsightdark:** A dashboard with a dark, sunsight-inspired color scheme.
+   - **tealrose:** A dashboard using teal and rose color tones.
+
+2. **Scatter Plots:**
+   - **Overall Unemployment Rate vs. Mental Health Burden:** A scatter plot comparing the unemployment rate with the mental health burden across states.
+
+3. **Bar Plot:**
+   - **State-wise Correlation Sensitivity Ranking:** A bar plot displaying the correlation sensitivity ranking for each state.
+
+4. **US Choropleth Map:**
+   - **Geospatial Distribution of Correlation Coefficients:** A choropleth map showing the distribution of correlation coefficients across the U.S. states.
+
+### `metadata/`
+This folder contains cleaned data files that were used for the analysis:
+
+1. **Unemployment in America Per US State.csv:**
+   - Contains unemployment data by state in the United States.
+
+2. **data_043155.csv:**
+   - Contains mental health indicators for each U.S. state.
+
+3. **partial_combined_data.csv:**
+   - This dataset consists of cleaned data from both the unemployment and mental health datasets for further analysis.
+
+### `Main/`
+This folder includes the core components of the project:
+
+1. **Project Poster:**
+   - A visual representation of the project, summarizing the key points and findings.
+
+2. **Dashboard Code:**
+   - Interactive visualization prototype that allows users to explore the data through various dashboards.
+
+3. **Plot Codes:**
+   - Includes the code for generating the three types of plots mentioned in the `Visualization/` folder: scatter plot, bar plot, and choropleth map.
+
 
 ## 2. Methodology
 We conducted the following steps:
