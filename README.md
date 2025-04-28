@@ -36,7 +36,7 @@ This folder contains the core components of the project and also includes the `V
 
 4. **`Visualization/` Folder:**
    - Contains visual representations of the data:
-     - **Dashboards:** `delta`, `sunsightdark`, and `tealrose` dashboards with different color schemes.
+     - **Dashboards:** `Delta`, `Sunsetdark`, and `Tealrose` dashboards with different color schemes, with the 'Delta' version specifically designed for colorblind users.
      - **Scatter Plots:** Plot comparing overall unemployment rate vs. mental health burden.
      - **Bar Plot:** State-wise correlation sensitivity ranking.
      - **Choropleth Map:** Geospatial distribution of correlation coefficients.
