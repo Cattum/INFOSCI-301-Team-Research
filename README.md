@@ -140,6 +140,8 @@ The interactive dashboard is available for public access. Users can:
 - Adjust visualization settings to suit personal preferences, including toggling between standard and colorblind-friendly views.
 - Interact with the time slider to view data changes year by year.
 
+![Tealrose](Tealrose.png)
+
 ## 6. Future Work and Enhancements
 - **Geospatial Analytics**: Incorporating more advanced geospatial analytics for deeper insights.
 - **Predictive Modeling**: Adding features for predictive analytics based on the data.
