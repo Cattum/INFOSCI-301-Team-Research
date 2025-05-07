@@ -1,3 +1,15 @@
+## Table of Contents
+- [1. Project Title](#1-project-title)
+- [2. Authors and Contribution Statement](#2-authors-and-contribution-statement)
+- [3. Statement of Contribution to SDGs](#3-statement-of-contribution-to-sdgs)
+- [4. Disclaimer](#4-disclaimer)
+- [5. Acknowledgements](#5-acknowledgements)
+- [6. Media Showcase](#6-media-showcase)
+- [7. Statement of Intellectual and Professional Growth](#7-statement-of-intellectual-and-professional-growth)
+- [8. Navigation Instructions](#8-navigation-instructions)
+- [Data Analysis Report](#data-analysis-report-unemployment-and-mental-health-correlation)
+- [Interactive Dashboard](#interactive-dashboard-unemployment-and-mental-health-visualization)
+
 ## 1. Project Title
 Unemployment and Mental Health: A Data-Driven Exploration of Socioeconomic Vulnerability Across U.S. States (2018–2021)
 
