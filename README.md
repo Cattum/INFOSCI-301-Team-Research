@@ -48,7 +48,7 @@ Open-source libraries including Pandas and Plotly.
 
 ## Demo Video Showcase
 
-!!!!!!!!!!!!!!!!![Demo Video
+![Demo Video](Demo_Video.MP4)
 
 *The demo video showcases our interactive visualization.*
 
