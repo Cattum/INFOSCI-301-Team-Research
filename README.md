@@ -25,7 +25,7 @@ This project contributes to the following UN Sustainable Development Goals (SDGs
 Goal 3: Good Health and Well-being
 By analyzing and visualizing the relationship between unemployment and mental health, we identify vulnerable populations and time-sensitive policy needs, helping to promote mental health awareness and response strategies.
 
-!!!!!!!!!!!![SDG.jpg
+![SDGs Goal](SDGs.png)
 
 ## 4. Disclaimer
 This project is the final submission for INFOSCI 301: Data Visualization and Information Aesthetics, taught by Prof. Luyao Zhang at Duke Kunshan University in Spring 2025.
