@@ -234,3 +234,57 @@ The interactive dashboard is available for public access. Users can:
 - **Mobile Accessibility**: Ensuring the dashboard is fully accessible and responsive on mobile devices.
 
 This dashboard serves as a powerful tool for understanding the intersection of economic and public health factors, empowering users to explore the data interactively while considering the needs of individuals with varying visual abilities.
+
+## References
+
+This project draws upon interdisciplinary sources to support its methodology, visual design principles, and socioeconomic-health analysis.
+
+### Academic Literature
+
+- **Brouwers, E. P. M. (2020)**  
+  *Social stigma is an underestimated contributing factor to unemployment in people with mental illness.*  
+  Highlights how mental health and unemployment are interlinked not only economically, but also socially—through stigma.  
+  [BMC Psychology, 8(1)](https://doi.org/10.1186/s40359-020-00399-0)
+
+- **Uutela, A. (2010)**  
+  *Economic crisis and mental health.*  
+  Offers evidence from prior economic downturns to justify our lagged-effect hypothesis.  
+  [Current Opinion in Psychiatry, 23(2)](https://doi.org/10.1097/yco.0b013e328336657d)
+
+- **Winkelmann, L., & Winkelmann, R. (2024)**  
+  *Happiness and unemployment: A panel data analysis for Germany.*  
+  A cross-national study that supports the generalizability of our findings.  
+  [Applied Economics Quarterly, 41(4)](https://www.zora.uzh.ch/id/eprint/1189/8/HappWinkelmannK.pdf)
+
+- **Munzner, T. (2014)**  
+  *Visualization Analysis and Design.*  
+  Core reference for visualization methodology, including marks, channels, and layout strategies.  
+  *(CRC Press)*
+
+- **Ware, C. (2021)**  
+  *Information Visualization: Perception for Design (4th ed.).*  
+  Informed our visual design decisions around perception, attention, and color.  
+  *(Morgan Kaufmann)*
+
+---
+
+### Data Sources
+
+- **Unemployment in America, Per US State**  
+  Monthly unemployment rates (1976–2022), merged for longitudinal correlation analysis.  
+  Source: Kaggle / U.S. Bureau of Labor Statistics  
+  [Dataset Link](https://www.kaggle.com/datasets/justin2028/unemployment-in-america-per-us-state)
+
+- **Mental Health Indicators by State**  
+  Tracks self-reported mental health status from 2018–2021, by state.  
+  Source: CDC Environmental Public Health Tracking Network  
+  [Dataset Link](https://ephtracking.cdc.gov/DataExplorer/?c=13&i=109&m=-1)
+
+---
+
+### Visualization Inspiration
+
+- **Our World in Data (2023)**  
+  *Antidepressant drug consumption per 1,000 people vs. GDP per capita (2010–2021)*  
+  A compelling example of how economic indicators and health metrics can be combined visually.  
+  [Chart Link](https://ourworldindata.org/grapher/antidepressants-per-capita-vs-gdp)
