@@ -14,8 +14,8 @@
 Unemployment and Mental Health: A Data-Driven Exploration of Socioeconomic Vulnerability Across U.S. States (2018–2021)
 
 ## 2. Authors and Contribution Statement
-Qirui Zhao: Conducted correlation and lagged effect analysis, designing research questions, integrated and cleaned datasets, developed all data preprocessing scripts.
-Zichu Zhou: Designed and implemented the interactive dashboards using Plotly, co-authored the report and poster, and color accessibility testing.
+-Qirui Zhao: Conducted correlation and lagged effect analysis, designing research questions, integrated and cleaned datasets, developed all data preprocessing scripts.
+-Zichu Zhou: Designed and implemented the interactive dashboards using Plotly, co-authored the report and poster, and color accessibility testing.
 
 We collaborated equally on conceptual design, coding, and presentation materials.
 
@@ -33,11 +33,11 @@ This project is the final submission for INFOSCI 301: Data Visualization and Inf
 ## 5. Acknowledgements
 We would like to thank:
 
-Professor Luyao Zhang for expert guidance and constructive feedback.
-Classmates and guest speakers for their questions, critique, and ideas.
-Duke Kunshan academic symposium that sparked our inspiration.
-AIGC tools for brainstorming and structuring materials.
-Open-source libraries including Pandas and Plotly.
+-Professor Luyao Zhang for expert guidance and constructive feedback.
+-Classmates and guest speakers for their questions, critique, and ideas.
+-Duke Kunshan academic symposium that sparked our inspiration.
+-AIGC tools for brainstorming and structuring materials.
+-Open-source libraries including Pandas and Plotly.
 
 ## 6. Media Showcase
 ## Poster Showcase
@@ -48,7 +48,7 @@ Open-source libraries including Pandas and Plotly.
 
 ## Demo Video Showcase
 
-![Demo Video](Demo_Video.MP4)
+![Click here to watch the demo video](Demo_Video.MP4)
 
 *The demo video showcases our interactive visualization.*
 
