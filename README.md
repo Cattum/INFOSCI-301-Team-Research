@@ -1,26 +1,61 @@
-# Data Analysis Report: Unemployment and Mental Health Correlation
+## 1. Project Title
+Unemployment and Mental Health: A Data-Driven Exploration of Socioeconomic Vulnerability Across U.S. States (2018–2021)
 
-## 1. Overview
-In this analysis, we examine the relationship between state-level unemployment rates and the prevalence of mental health burdens (measured as the percentage of adults experiencing poor mental health for at least 14 days in a month) across the United States between 2018 and 2021. Our primary aim is to:
-- Quantify the strength of this relationship.
-- Explore its temporal dynamics, especially potential lag effects.
-- Identify states that may be particularly vulnerable.
+## 2. Authors and Contribution Statement
+Qirui Zhao: Conducted correlation and lagged effect analysis, designing research questions, integrated and cleaned datasets, developed all data preprocessing scripts.
+Zichu Zhou: Designed and implemented the interactive dashboards using Plotly, co-authored the report and poster, and color accessibility testing.
 
-The dataset integrates unemployment data from the U.S. Bureau of Labor Statistics with mental health indicators from the CDC’s Environmental Public Health Tracking Network.
+We collaborated equally on conceptual design, coding, and presentation materials.
 
-The project was completed for the course INFOSCI 301 at Duke Kunshan University, instructed by Professor Luyao Zhang.
+## 3. Statement of Contribution to SDGs
+This project contributes to the following UN Sustainable Development Goals (SDGs):
 
-> Author: Zichu Zhou & Qirui Zhao  
-> Date: April 28, 2025
+Goal 3: Good Health and Well-being
+By analyzing and visualizing the relationship between unemployment and mental health, we identify vulnerable populations and time-sensitive policy needs, helping to promote mental health awareness and response strategies.
 
+!!!!!!!!!!!![SDG.jpg
 
+## 4. Disclaimer
+This project is the final submission for INFOSCI 301: Data Visualization and Information Aesthetics, taught by Prof. Luyao Zhang at Duke Kunshan University in Spring 2025.
+
+## 5. Acknowledgements
+We would like to thank:
+
+Professor Luyao Zhang for expert guidance and constructive feedback.
+Classmates and guest speakers for their questions, critique, and ideas.
+Duke Kunshan academic symposium that sparked our inspiration.
+AIGC tools for brainstorming and structuring materials.
+Open-source libraries including Pandas and Plotly.
+
+## 6. Media Showcase
 ## Poster Showcase
 
 ![Poster](Poster.png)
 
 *The poster summarizes the research background, critique process, redesign strategies, and key visualization outcomes.*
 
-## File Structure
+## Demo Video Showcase
+
+!!!!!!!!!!!!!!!!![Demo Video
+
+*The demo video showcases our interactive visualization.*
+
+## 7. Statement of Intellectual and Professional Growth
+Throughout this course, we have grown immensely in our ability to critically analyze data aesthetics and construct meaningful visual narratives. We learned to move beyond simply plotting data—focusing instead on crafting a clear, insightful, and accessible experience for users. Developing this project deepened our understanding of:
+
+Data cleaning and preprocessing pipelines
+
+Temporal and spatial correlation analysis
+
+Interactive dashboard deployment
+
+Accessibility through inclusive color palettes
+
+SDG integration with real-world impact
+
+These skills have not only improved our technical abilities but also shaped our awareness of data ethics and policy relevance.
+
+## 8. Navigation Instructions
 
 ### `Main/`
 This folder contains the core components of the project and also includes the `Visualization/` and `metadata/` folders:
@@ -47,6 +82,17 @@ This folder contains the core components of the project and also includes the `V
      - **data_043155.csv:** Mental health indicators by state.
      - **partial_combined_data.csv:** Combined and cleaned data from both unemployment and mental health datasets.
 
+
+# Data Analysis Report: Unemployment and Mental Health Correlation
+## 1. Overview
+In this analysis, we examine the relationship between state-level unemployment rates and the prevalence of mental health burdens (measured as the percentage of adults experiencing poor mental health for at least 14 days in a month) across the United States between 2018 and 2021. Our primary aim is to:
+- Quantify the strength of this relationship.
+- Explore its temporal dynamics, especially potential lag effects.
+- Identify states that may be particularly vulnerable.
+
+The dataset integrates unemployment data from the U.S. Bureau of Labor Statistics with mental health indicators from the CDC’s Environmental Public Health Tracking Network.
+
+The project was completed for the course INFOSCI 301 at Duke Kunshan University, instructed by Professor Luyao Zhang.
 
 ## 2. Methodology
 We conducted the following steps:
