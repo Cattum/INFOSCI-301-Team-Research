@@ -199,15 +199,17 @@ To further illustrate the temporal and regional dynamics between unemployment an
 
 A **time slider** allows users to interactively explore changes from 2018 to 2021, providing a comprehensive view of the relationship between unemployment and mental health burdens over time.
 
+A **color option button** allows users to interactively select the different color versions of the visualization, including a version named "delta" which is especially designed for color-blind users.
+
 ## 2. Dashboard Features
 
-| Feature                          | Description (EN)                                                | 
+| Feature                          | Description                                                | 
 |----------------------------------|-----------------------------------------------------------------|
 | **Mental Health Visualization**  | Color intensity reflects mental health burden per state.        |
 | **Unemployment Visualization**   | Bubble size and shade represent unemployment rates.            | 
 | **Time Slider**                  | Interactive year-by-year comparison.                           | 
 | **Tooltips**                     | Hovering over states/bubbles shows detailed data.               |
-
+| **Color Option Buttons**         | Color changeable versions.                                      |
 ## 3. Accessibility Features
 In addition to the standard visualizations, we have included colorblind-friendly alternatives for better accessibility. Using color palettes derived from colorblind-friendly schemes, users can choose from multiple visualization options, ensuring a better experience for all individuals, regardless of visual impairments.
 
